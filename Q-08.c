@@ -2,8 +2,8 @@
 int main()
 {
 	int a;
-	printf("enter the number:");
-	scanf("%x",&a);
+	printf("enter the octal");
+	scanf("%o",&a);
 	printf("%d",a);
 	return 0;
 }
